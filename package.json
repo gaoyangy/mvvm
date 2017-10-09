@@ -1,0 +1,22 @@
+{
+  "name": "mvvm-demo",
+  "version": "1.0.0",
+  "description": "mvvm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gaoyangy/mvvm.git"
+  },
+  "keywords": [
+    "mvvm"
+  ],
+  "author": "gaoyangyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaoyangy/mvvm/issues"
+  },
+  "homepage": "https://github.com/gaoyangy/mvvm#readme"
+}
