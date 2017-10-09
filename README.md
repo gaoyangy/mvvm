@@ -1,2 +1,2 @@
 # mvvm
-look vue like  mvvm
+like simple vue
